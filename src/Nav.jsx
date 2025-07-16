@@ -10,8 +10,9 @@ const Nav = () => {
         </div>
         <div>
     <a  className='nav-link' href='#home' >Home</a>
-    <a className='nav-link' href='#about' >About</a>
     <a  className='nav-link' href='#project'  >Project</a>
+    <a className='nav-link' href='#about' >About</a>
+   
     </div>
      
      </nav>

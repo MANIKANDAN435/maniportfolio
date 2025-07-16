@@ -23,7 +23,7 @@
   
     min-height: 150px;
     position: fixed;
-    top: 0;
+    top: 0;  
     display: flex; 
     justify-content: space-evenly;
     align-items: center;
@@ -149,6 +149,7 @@ display: inline-block;
   background-color: #2A004E;
   margin-top: 150px;
   height: 50vh;
+  padding-top: 30px;
 }
 
 .smallhead{

@@ -8,7 +8,7 @@ import multiform from './assets/multiform.png'
 const Project = () => {
   return (
 
-    <div className='project' id='project'>
+    <div className='project' id='project'>  
 
     <h1 className='lghead' >Projects</h1>
 
@@ -93,7 +93,7 @@ const Project = () => {
           <img src={tictactoe} alt="tictactoe" className='multiform imageforjta' />
         </div>
       </div>
-      
+        
       {/* weatherapp */}
 
       <div className='whole'>

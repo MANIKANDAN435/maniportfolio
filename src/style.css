@@ -1,6 +1,8 @@
 @media (min-width:768px) {
       
-
+    html{
+        scroll-padding: 0px;
+    }
 
     .nav-link{
   color: white; 
@@ -77,6 +79,7 @@
         .lghead{
             font-size: 70px;
         }
+        
         .imageforjta{
             display: none;
             
@@ -176,9 +179,13 @@
     display: none;
 }
 
+
 @media (min-width:1024px) {
     .multiform{
         display: block;
+    }
+     html{
+        scroll-padding: 0px;
     }
     .imagecontainer{
             display: block;
