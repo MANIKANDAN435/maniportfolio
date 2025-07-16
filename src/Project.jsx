@@ -27,7 +27,7 @@ const Project = () => {
          This project demonstrates structured form flow, user authentication, and data management in a practical application setting.</p>
       <img src={multiform} alt="jobtrakingapp" className='imageforjta' />
       <div className='firstplinkdiv'>
-      <a href="https://jobtrackingapplicationmani.netlify.app" target='_blank' className='firstplink'  rel="noreferrer" >Job Application Tracker</a>
+      <a href="https://multiformproject.netlify.app" target='_blank' className='firstplink'  rel="noreferrer" >Job Application Form</a>
       </div>
       </div>
     </div>
