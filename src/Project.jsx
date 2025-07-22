@@ -30,7 +30,7 @@ const Project = () => {
       <a href="https://multiformproject.netlify.app" target='_blank' className='firstplink'  rel="noreferrer" >Job Application Form</a>
       </div>
       </div>
-    </div>
+    </div>  
 
 
         {/* Job Application Tracker */}
@@ -40,10 +40,10 @@ const Project = () => {
       <h1 className='firstphead' >Job Application Tracker</h1>
       <h2 className='firstpsubhead' >Track and manage your job applications with ease.</h2>
       <p className='firstppara'>A public job tracking web app built using React and Firebase Realtime Database via REST API.
-         This app allows users to add, edit, delete, and view job applications with 
-        key details like job title, company name, application status, and the date applied.</p>
+         This app allows users to add, edit, delete, and view job applications with
+        key details like job title, company name, application status, and the date applied.</p>   
       <img src={jta} alt="jobtrakingapp" className='imageforjta' />
-      <div className='firstplinkdiv'>
+      <div className='firstplinkdiv'>  
       <a href="https://jobtrackingapplicationmani.netlify.app" target='_blank' className='firstplink jobtrakerlink'  rel="noreferrer" >Job Application Tracker</a>
       </div>
       </div>

@@ -11,7 +11,7 @@ const About = () => {
         <h2 className="aboutname" >Name: Mani Kandan  </h2>
         <div>
         <strong>Email:</strong>
-         <a className="aboutemail" href="mailto:maniikandan825@gmail.com" rel="noreferrer">  maniikandan825@gmail.com </a>
+         <a className="aboutemail" href="mailto:maniikandan2208@gmail.com" rel="noreferrer">  maniikandan2208@gmail.com </a>
          </div>
        <div className="aboutsocials" >   
         <a  className="social"  href="https://www.linkedin.com/in/mani-kandan19/" target="_blank" rel="noreferrer"><FaLinkedin size={20}/></a> 
@@ -22,7 +22,7 @@ const About = () => {
       </div>
       
     </div>
-  )
+  ) 
 }
 
 export default About  

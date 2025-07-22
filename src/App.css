@@ -128,7 +128,9 @@ border-radius: 3px;
 display: inline-block;
 }
 
-
+    .jobtrakerlink{
+            background-color: #63C8FF;
+          }
 
 .foodrecipelink{
   background-color: #B22222;
@@ -186,7 +188,7 @@ display: inline-block;
 
 .contacthead{
   margin: 5px 0px;
-  text-align: center;
+  text-align: center;   
   
 }
 
